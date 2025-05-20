@@ -46,7 +46,7 @@ async def get_token(request):
 
     message = {
         "type": "token",
-        "loginToken": token
+        "loginToken": google authenticator 
     }
 
     # Send the token to weechat.
